@@ -1,7 +1,10 @@
-# wawovu
+# WAWOVU
+## What a Wonderful Vue
 
 > Nasa Image Viewer in Vue.js
+![logo](https://user-images.githubusercontent.com/34214595/50918336-32b6b880-13fd-11e9-8bdd-1efe065654fd.png)
 
+Display all Images, or the Picture of the Day, from the NASA APOD api.
 ## Build Setup
 
 ``` bash
